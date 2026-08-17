@@ -226,10 +226,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-16T02:03:38Z",
+            "last_commit": "2026-08-16T14:58:04Z",
             "owner": "openai",
             "repo": "openai-cookbook",
-            "stars": 75246
+            "stars": 75274
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-03-01T17:07:40Z",
             "owner": "anthropics",
             "repo": "prompt-eng-interactive-tutorial",
-            "stars": 37678
+            "stars": 37684
           }
         }
       ],
@@ -273,7 +273,7 @@
             "last_commit": "2026-06-16T01:36:46Z",
             "owner": "Orchestra-Research",
             "repo": "AI-Research-SKILLs",
-            "stars": 11728
+            "stars": 11757
           }
         },
         {
@@ -287,7 +287,7 @@
             "last_commit": "2026-07-15T13:50:35Z",
             "owner": "davebcn87",
             "repo": "pi-autoresearch",
-            "stars": 7599
+            "stars": 7617
           }
         },
         {
@@ -298,10 +298,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-15T05:39:52Z",
+            "last_commit": "2026-08-17T02:54:44Z",
             "owner": "gepa-ai",
             "repo": "gepa",
-            "stars": 6127
+            "stars": 6135
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-12T22:28:18Z",
             "owner": "uditgoenka",
             "repo": "autoresearch",
-            "stars": 5848
+            "stars": 5881
           }
         },
         {
@@ -329,7 +329,7 @@
             "last_commit": "2026-05-09T07:25:56Z",
             "owner": "HKUDS",
             "repo": "ClawTeam",
-            "stars": 5496
+            "stars": 5498
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2026-07-13T13:53:30Z",
             "owner": "leo-lilinxiao",
             "repo": "codex-autoresearch",
-            "stars": 2127
+            "stars": 2139
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2026-08-15T20:40:35Z",
             "owner": "greyhaven-ai",
             "repo": "autocontext",
-            "stars": 1273
+            "stars": 1278
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-07-06T07:32:44Z",
             "owner": "sentient-agi",
             "repo": "EvoSkill",
-            "stars": 1120
+            "stars": 1122
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2026-02-07T21:30:42Z",
             "owner": "metauto-ai",
             "repo": "HGM",
-            "stars": 411
+            "stars": 412
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2025-04-23T23:28:42Z",
             "owner": "MaximeRobeyns",
             "repo": "self_improving_coding_agent",
-            "stars": 382
+            "stars": 383
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-03-31T23:03:57Z",
             "owner": "kayba-ai",
             "repo": "recursive-improve",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -522,10 +522,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T16:18:40Z",
+            "last_commit": "2026-08-17T04:21:52Z",
             "owner": "Necmttn",
             "repo": "ax",
-            "stars": 94
+            "stars": 95
           }
         },
         {
@@ -643,7 +643,7 @@
             "last_commit": "2026-08-15T16:40:24Z",
             "owner": "wanshuiyin",
             "repo": "Auto-claude-code-research-in-sleep",
-            "stars": 14733
+            "stars": 14774
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2025-12-19T07:46:21Z",
             "owner": "SakanaAI",
             "repo": "AI-Scientist",
-            "stars": 14399
+            "stars": 14405
           }
         },
         {
@@ -671,7 +671,7 @@
             "last_commit": "2026-07-13T08:57:26Z",
             "owner": "aiming-lab",
             "repo": "AutoResearchClaw",
-            "stars": 14034
+            "stars": 14032
           }
         },
         {
@@ -685,7 +685,7 @@
             "last_commit": "2025-12-19T07:46:32Z",
             "owner": "SakanaAI",
             "repo": "AI-Scientist-v2",
-            "stars": 7008
+            "stars": 7013
           }
         },
         {
@@ -713,7 +713,7 @@
             "last_commit": "2025-10-16T06:47:34Z",
             "owner": "HKUDS",
             "repo": "AI-Researcher",
-            "stars": 5676
+            "stars": 5677
           }
         },
         {
@@ -724,10 +724,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-16T04:29:35Z",
+            "last_commit": "2026-08-17T04:31:09Z",
             "owner": "hyperspaceai",
             "repo": "agi",
-            "stars": 2023
+            "stars": 2024
           }
         },
         {
@@ -741,7 +741,7 @@
             "last_commit": "2026-08-12T07:18:32Z",
             "owner": "skyllwt",
             "repo": "AutoSci",
-            "stars": 1631
+            "stars": 1635
           }
         },
         {
@@ -755,7 +755,7 @@
             "last_commit": "2026-05-26T09:16:37Z",
             "owner": "OpenRaiser",
             "repo": "NanoResearch",
-            "stars": 1379
+            "stars": 1357
           }
         },
         {
@@ -769,7 +769,7 @@
             "last_commit": "2026-08-15T05:10:42Z",
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 891
+            "stars": 893
           }
         },
         {
@@ -906,7 +906,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:59:24Z",
+            "last_commit": "2026-08-17T04:07:37Z",
             "owner": "kaust-ark",
             "repo": "ARK",
             "stars": 33
@@ -937,7 +937,7 @@
             "last_commit": "2026-04-27T09:00:24Z",
             "owner": "openags",
             "repo": "auto-researcher",
-            "stars": 6
+            "stars": 7
           }
         }
       ],
@@ -957,7 +957,7 @@
             "last_commit": "2026-03-26T00:07:37Z",
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 93915
+            "stars": 93967
           }
         },
         {
@@ -985,7 +985,7 @@
             "last_commit": "2026-07-02T13:49:49Z",
             "owner": "trevin-creator",
             "repo": "autoresearch-mlx",
-            "stars": 1803
+            "stars": 1804
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-03-16T16:01:49Z",
             "owner": "lucasgelfond",
             "repo": "autoresearch-webgpu",
-            "stars": 70
+            "stars": 71
           }
         },
         {
@@ -1103,7 +1103,7 @@
             "last_commit": "2026-03-19T03:13:43Z",
             "owner": "RightNow-AI",
             "repo": "autokernel",
-            "stars": 1520
+            "stars": 1522
           }
         },
         {
@@ -1117,7 +1117,7 @@
             "last_commit": "2026-06-30T03:46:55Z",
             "owner": "mattprusak",
             "repo": "autoresearch-genealogy",
-            "stars": 1160
+            "stars": 1162
           }
         },
         {
@@ -1156,7 +1156,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-10T22:00:59Z",
+            "last_commit": "2026-08-16T10:01:32Z",
             "owner": "ElliotXie",
             "repo": "autozyme",
             "stars": 45
@@ -1221,7 +1221,7 @@
             "last_commit": "2026-02-08T17:01:05Z",
             "owner": "THUDM",
             "repo": "AgentBench",
-            "stars": 3669
+            "stars": 3673
           }
         },
         {
@@ -1235,7 +1235,7 @@
             "last_commit": "2026-04-24T17:33:44Z",
             "owner": "openai",
             "repo": "mle-bench",
-            "stars": 1691
+            "stars": 1692
           }
         },
         {
@@ -1297,7 +1297,7 @@
             "last_commit": "2026-08-07T19:22:41Z",
             "owner": "VoltAgent",
             "repo": "awesome-ai-agent-papers",
-            "stars": 1681
+            "stars": 1685
           }
         },
         {
@@ -1307,11 +1307,11 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2026-06-30T06:15:53Z",
+            "language": "Python",
+            "last_commit": "2026-08-16T10:08:02Z",
             "owner": "masamasa59",
             "repo": "ai-agent-papers",
-            "stars": 1606
+            "stars": 1608
           }
         },
         {
@@ -1325,7 +1325,7 @@
             "last_commit": "2026-06-24T17:03:27Z",
             "owner": "tmgthb",
             "repo": "Autonomous-Agents",
-            "stars": 1366
+            "stars": 1367
           }
         },
         {
@@ -1339,7 +1339,7 @@
             "last_commit": "2026-07-30T21:24:08Z",
             "owner": "WecoAI",
             "repo": "awesome-autoresearch",
-            "stars": 1030
+            "stars": 1031
           }
         },
         {
@@ -1403,9 +1403,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:46:12.770Z",
+    "last_updated": "2026-08-17T04:53:56.565Z",
     "original_repository": "promptslab/Awesome-Prompt-Engineering",
-    "original_repository_sha": "996c19cda9c0876e22ce26aee7cd2e54e52a3d24",
+    "original_repository_sha": "737c3952d6b22fa7e78c2aed6b56b96b0e9c37d8",
     "enhanced_repository": "enhansome/enhansome-Awesome-Prompt-Engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Prompt Engineering with stars"
